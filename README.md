@@ -2,11 +2,11 @@
 <h3 align="center">A passionate backend developer from Chile</h3>
 
 
-- 🔭 I’m currently working on **Nothing xD**
+- 🔭 I’m currently working on **Automation QA**
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **Games or API**
 
 - 🤝 I’m looking for help with **get a job how developer**
 
