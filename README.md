@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A passionate backend developer from Chile</h3>
+<h3 align="center">A passionate Developer from Chile</h3>
 
 
-- 🔭 I’m currently working on **Automation QA**
+- 🔭 I’m currently working on **Nothing, nah, I help my dad in  the car workshop**
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👯 I’m looking to collaborate on **Games or API**
+- 👯 I’m looking to collaborate on **Games or API or Web site**
 
 - 🤝 I’m looking for help with **get a job how developer**
 
-- 💬 Ask me about **Automation test, Backend frameworks**
+- 💬 Ask me about **Automation test, Backend frameworks or programing stuffs.**
 
-- ⚡ Fun fact **Play videogames like overwach2, wow.**
+- ⚡ Fun fact **Play videogames like overwach2, wow, pokemon tcg. i like play the piano and sometime i sing. i go to the gym to improve my physical condition. and more...**
 
 
 <h3 align="left">Connect with me:</h3>
